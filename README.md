@@ -3,7 +3,7 @@
 This repository contains my personal collection of web development projects built using HTML, CSS, and (soon) JavaScript. Each project reflects my learning progress, design practice, and commitment to becoming a skilled frontend developer.
 
 > I’m Shruti Mandal, a B.Tech Electronics and Communication Engineering student at UCET Hazaribagh, on a mission to build clean, responsive, and accessible websites.  
-> 🔗 GitHub: [sourav-kumar-357](https://github.com/shruti-19m)  
+> 🔗 GitHub: [shruti-19m](https://github.com/shruti-19m)  
 
 ---
 
