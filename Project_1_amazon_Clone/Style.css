@@ -1,6 +1,43 @@
 *{
    margin:0;
-    front-family:Arial;
+    font-family: Arial;
     border:border-box;
+}
+.nav-logo {
+    height: 60px;
+    background-color: #0f1111;
+    color:white;
+    display:flex;
+    align-items:center;
+    justify-content: space-evenly;
+}
+.nav-logo{
+    height:50px;
+    width: 100px;
+}
+.logo{
+    background-image:url("Users/shrutimandal/Desktop/Web Dev Projects/Web-Dev-Projects/Project_1_amazon_Clone/Images/amazon_logo.png")
+    background-sizecover;
+    height:50px;
+    width:100%;
+}
+.border:hover{
+    border:2px solid rgb(255, 255, 255);
+}
+/* box2*/
+.add-icon{
+    display:flex;
+    /*flex-direction:column;
+    justify-content:center;*/
+    align-items: center;
 
+}
+.add-fst {
+    color: #cccccc;
+    font-size: 0.85rem;
+    margin-left: 15px;
+}
+
+.add-sec {
+    font-size: 1rem;
 }
